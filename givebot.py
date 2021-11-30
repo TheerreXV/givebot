@@ -3,9 +3,13 @@ from pyrogram.types import *
 import time 
  
 api_id = 13279560
+
 api_hash = "96f17e90944f3ebe1049f7e1ff821e12"
+
 bot_token = "2120772641:AAGsGh7sYY_RfZmCgQf7K5Tew_fKBDRZh_"
+
 ADMINS = [1981793621] #metti id degli admin 
+
 CHAT_ID = -1001251853589 #chat id del canale 
  
 bot = Client('bot', api_id, api_hash, bot_token) 
