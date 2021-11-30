@@ -4,7 +4,7 @@ import time
  
 api_id = 13279560
 
-api_hash = "96f17e90944f3ebe1049f7e1ff821e12"
+api_hash = 
 
 bot_token = "2120772641:AAGsGh7sYY_RfZmCgQf7K5Tew_fKBDRZh_"
 
